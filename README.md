@@ -1,4 +1,4 @@
 # FullStack-Class-1
-Class 1(Starting the frontend- part 1)
+Class 2(Starting the frontend- part 2)
 
-* Resources and Codes for class 1 is attached here.
+* Resources and Codes for class 2 is attached here.
